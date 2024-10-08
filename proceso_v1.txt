@@ -4,5 +4,7 @@
 3. Realizar la transformación
 	- ordenamiento por campo
 	- reemplace espacios en blanco con valor = 0
+	- Considere solo 2 nombres ('Nombre_1', 'Nombre_2')
+	- Ordenarlo por meses ('Enero', 'Febrero', 'Marzo')
 
 <FIN>
